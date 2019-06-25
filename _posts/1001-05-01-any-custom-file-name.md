@@ -2,9 +2,9 @@
 layout: post
 ---
 
-example of blockquotes
+引用
 
-As Grace Hopper said:
-> I’ve always been more interested 
-> in the future than in the past.
+正如孔子索索:
+> 学而不思则罔， 
+> 死而不学则怠。
 
